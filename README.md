@@ -1,4 +1,4 @@
-<h1 align="center"> Palíndromo </h1>
+<h1 align="center"> Variáveis, tomada de decisão e Laços de Repetição </h1>
 
 ## 🚀 Tecnologias
 
@@ -10,7 +10,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-- Imprimir as palavras consideradas palíndromos (Palíndromo é uma palavra, frase ou número que permanece igual quando lida de trás para diante).
+- Exercícios do curso sobre Python da FIAP.
 
 
 
